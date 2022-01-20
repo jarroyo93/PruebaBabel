@@ -1,4 +1,4 @@
-El proceso de automatización  fue construído con selenium, TesNG la librería POI para lectura del archivo Excel.
+El proceso de automatización  fue construído con selenium, TesNG y la librería POI para lectura del archivo Excel.
 Se utilizó un solo caso de prueba que usa una sola instacia del navegador de google chrome para ejecutar toda la data incluída en el Excel.
 
 Por lo anterior se tuvo en cuenta lo siguiente:
@@ -13,7 +13,7 @@ Por lo anterior se tuvo en cuenta lo siguiente:
 	
 	Hoja Errors: Estos erros fueron creados para validad no solo el resultado sino también el comportamiento de los campos.
 
--Del Excel no solo se extrae data, si no qu también sirve como lmacenamiento de resultados y de errores encontrados en cada caso. Estos se consignan en las columnas
+-Del Excel no solo se extrae data, si no que también sirve como almacenamiento de resultados y de errores encontrados en cada caso. Estos se consignan en las columnas
 	Obtained Result	Test Result y Erros Codes. Se hizo de esta forma para que la evidencia fuera inmediata y se pudieran comprar los resultados de manera eficiente.
 
 
